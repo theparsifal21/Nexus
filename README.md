@@ -1,9 +1,8 @@
-# NEXUS
+# NEXUS — v1.0.0
 
-Planned personal application hub.
+A minimal responsive launch hub with direct links to PANEL, PULSE, SHIFTLY and SAUCE. No backend, embedded apps, shared storage or build step.
 
-## Scope
-A central interface for organizing and accessing personal applications. RELIC is a separate standalone project and is not integrated into NEXUS.
+[Launch hub](https://theparsifal21.github.io/Nexus/)
 
-## Status
-Repository initialized with documentation only. No application release or deployment has been verified.
+## Deployment
+Enable GitHub Pages from `main`, `/ (root)`. Live deployment and destination availability have not been verified.
