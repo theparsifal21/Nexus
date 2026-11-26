@@ -1,6 +1,6 @@
-# NEXUS — v1.0.0
+# NEXUS — v1.0.1
 
-A minimal responsive launch hub with direct links to PANEL, PULSE, SHIFTLY and SAUCE. No backend, embedded apps, shared storage or build step.
+A minimal responsive launch hub with direct links to PANEL, PULSE, SHIFTLY, SAUCE and RELIC. No backend, embedded apps, shared storage or build step.
 
 [Launch hub](https://theparsifal21.github.io/Nexus/)
 
